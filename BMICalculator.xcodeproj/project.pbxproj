@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		CC0DEBA1227070830096D61E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC0DEBA0227070830096D61E /* AppDelegate.swift */; };
 		CC0DEBA3227070830096D61E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC0DEBA2227070830096D61E /* ViewController.swift */; };
-		CC0DEBA6227070830096D61E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC0DEBA4227070830096D61E /* Main.storyboard */; };
+		CC0DEBA6227070830096D61E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC0DEBA4227070830096D61E /* Main.storyboard */; settings = {ASSET_TAGS = (l, ); }; };
 		CC0DEBA8227070840096D61E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC0DEBA7227070840096D61E /* Assets.xcassets */; };
 		CC0DEBAB227070840096D61E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC0DEBA9227070840096D61E /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -90,6 +90,9 @@
 		CC0DEB95227070830096D61E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				KnownAssetTags = (
+					l,
+				);
 				LastSwiftUpdateCheck = 1020;
 				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = "Vebby Clarissa";
